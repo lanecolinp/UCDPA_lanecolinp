@@ -1,0 +1,19 @@
+,Model,Year,Expected,Predicted,0,1,2,3
+0,,,,,Linear regression,2014.0,496.0,328.40156911019585
+1,,,,,Random Forest regression,2014.0,496.0,488.97
+2,,,,,Linear regression,2015.0,1235.0,906.4855431623582
+3,,,,,Random Forest regression,2015.0,1235.0,1210.4
+4,,,,,Linear regression,2016.0,758.0,400.4963684195536
+5,,,,,Random Forest regression,2016.0,758.0,736.44
+6,,,,,Linear regression,2017.0,551.0,347.46808408852667
+7,,,,,Random Forest regression,2017.0,551.0,476.82
+8,,,,,Linear regression,2018.0,1940.0,1547.334127066686
+9,,,,,Random Forest regression,2018.0,1940.0,1901.19
+10,,,,,Linear regression,2019.0,1518.0,1262.2631910501223
+11,,,,,Random Forest regression,2019.0,1518.0,1521.31
+12,,,,,Linear regression,2020.0,2559.0,2251.3549851920106
+13,,,,,Random Forest regression,2020.0,2559.0,2578.9
+14,,,,,Linear regression,2021.0,1027.0,1095.9104766675446
+15,,,,,Random Forest regression,2021.0,1027.0,1069.67
+16,,,,,Linear regression,2022.0,215.0,730.5688052957703
+17,,,,,Random Forest regression,2022.0,215.0,234.73
